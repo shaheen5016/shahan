@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-color: rgb(82, 95, 211);
+}
+.col-xl-3{
+    font-size: 20px;
+    
+    color: #ffffff;
+}
+.col-xl-3 a{
+    color: #ffffff;
+    text-decoration: none;
+    padding:0px;
+}
+.col-xl-6{}
+.col-xl-6 ul{
+    display: block;
+}
+.col-xl-6 ul li{
+   display: inline-block;
+}
+.col-xl-6 ul li a {
+    font-size: 22px;
+    display: block;
+    text-decoration: none;
+    padding: 0px 30px;
+    line-height: 51px;
+    margin: auto;
+    color: #ffffff;
+    border-left: 1px solid #ddd;
+    transition: .5s;
+
+}
+.col-xl-6 ul li a:hover{
+    background-color: rgb(42, 51, 131);
+ 
